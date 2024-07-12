@@ -1,6 +1,16 @@
 ## Fala, galera!👋
 Eu sou Fábio Augusto e aqui estou, no GitHub.
 
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+          
+
+## Estou aprendendo
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/> 
+
 <!--
 **fabioaugusto/fabioaugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
