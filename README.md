@@ -1,4 +1,5 @@
-## Hi there 👋
+## Fala, galera!👋
+Eu sou Fábio Augusto e aqui estou, no GitHub.
 
 <!--
 **fabioaugusto/fabioaugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
